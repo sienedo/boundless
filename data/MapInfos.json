@@ -1,4 +1,10 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":411.5,"scrollY":334}
+{"id":1,"expanded":false,"name":"Crossroad_1","order":7,"parentId":0,"scrollX":942,"scrollY":624},
+{"id":2,"expanded":true,"name":"MAP002","order":1,"parentId":0,"scrollX":550.8,"scrollY":375},
+{"id":3,"expanded":false,"name":"first_spawn","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":true,"name":"town_of_carberra","order":3,"parentId":0,"scrollX":550.8,"scrollY":358.2},
+{"id":5,"expanded":false,"name":"shop_carberra","order":4,"parentId":4,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"house1_carberra","order":5,"parentId":4,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":false,"name":"house2_carberra","order":6,"parentId":4,"scrollX":550.8,"scrollY":358.2}
 ]
